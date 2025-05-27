@@ -11,5 +11,18 @@
 - 🏠 I am a student learning backend development using Python.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
-### Connect with Me:
-<a href
+### 📩 Connect with Me:
+- **LinkedIn:** [Mohamed El Sheik](https://www.linkedin.com/in/mohamed-el-sheik-7a028b220/)
+- **Telegram:** [@Mohamed_MMv](https://t.me/Mohamed_MMv)
+- **GitHub:** [Mohamedmv22](https://github.com/Mohamedmv22)
+
+### 🛠️ Tech Stack
+- **Python**
+- **HTML**
+- **CSS**
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamedmv22&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages"/>
+<br>
+<a href="https://komarev.com/ghpvc/?username=Mohamedmv22&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=Mohamedmv22&style=for-the-badge">
+</a>
