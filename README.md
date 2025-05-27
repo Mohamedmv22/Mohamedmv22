@@ -12,17 +12,19 @@
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 ### 📩 Connect with Me:
-- **LinkedIn:** [Mohamed El Sheik](https://www.linkedin.com/in/mohamed-el-sheik-7a028b220/)
-- **Telegram:** [@Mohamed_MMv](https://t.me/Mohamed_MMv)
-- **GitHub:** [Mohamedmv22](https://github.com/Mohamedmv22)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-el-sheik-7a028b220/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/Mohamed_MMv" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Mohamedmv22" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ### 🛠️ Tech Stack
 - **Python**
 - **HTML**
 - **CSS**
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamedmv22&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages"/>
-<br>
-<a href="https://komarev.com/ghpvc/?username=Mohamedmv22&style=for-the-badge">
-  <img src="https://komarev.com/ghpvc/?username=Mohamedmv22&style=for-the-badge">
-</a>
