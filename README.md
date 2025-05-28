@@ -19,10 +19,8 @@
   <a href="https://t.me/Mohamed_MMv" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://github.com/Mohamedmv22" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
 </p>
+
 
 ### 🛠️ Tech Stack
 <p align="center">
